@@ -12,12 +12,7 @@ Author(s) details:
 			School of Electronic and Information Engineering, 
 			Xi'an Jiaotong University, 
 			Xi'an,  P.R. China
-		and 	
-			Bureau of Economic Geology, 
-			Jackson School of Geosciences, 
-			The University of Texas at Austin, TX, USA
-
-
+	
 	Email(s):	(1) ypl.2100@gmail.com
 			(2) jhgao@mail.xjtu.edu.cn
 			(3) pooly1981@163.com
