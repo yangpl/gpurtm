@@ -1,5 +1,5 @@
 gpurtm
-======
+===========
 Name of the program: 2D prestack GPU-based RTM using effective boundary saving
 
 Name  of the manuscript: RTM using effective boundary saving: A staggered grid GPU implementation
